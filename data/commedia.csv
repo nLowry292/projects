@@ -1620,7 +1620,7 @@ suo,97,Inferno,2,0,0,0
 dimando,97,Inferno,2,1,0,0
 e,98,Inferno,2,0,0,0
 disse,98,Inferno,2,0,0,0
-«Or,98,Inferno,2,0,0,0
+Or,98,Inferno,2,0,1,0
 ha,98,Inferno,2,0,0,0
 bisogno,98,Inferno,2,0,0,0
 il,98,Inferno,2,0,0,0
@@ -1633,7 +1633,7 @@ io,99,Inferno,2,0,0,0
 a,99,Inferno,2,0,0,0
 te,99,Inferno,2,0,0,0
 lo,99,Inferno,2,0,0,0
-raccomando,99,Inferno,2,1,0,0
+raccomando,99,Inferno,2,0,0,1
 Lucia,100,Inferno,2,0,0,0
 nimica,100,Inferno,2,0,0,0
 di,100,Inferno,2,0,0,0
@@ -1655,7 +1655,7 @@ con,102,Inferno,2,0,0,0
 l'antica,102,Inferno,2,0,0,0
 Rachele,102,Inferno,2,1,0,0
 Disse,103,Inferno,2,0,0,0
-«Beatrice,103,Inferno,2,0,0,0
+Beatrice,103,Inferno,2,0,1,0
 loda,103,Inferno,2,0,0,0
 di,103,Inferno,2,0,0,0
 Dio,103,Inferno,2,0,0,0
@@ -1698,7 +1698,7 @@ ove,108,Inferno,2,0,0,0
 mar,108,Inferno,2,0,0,0
 non,108,Inferno,2,0,0,0
 ha,108,Inferno,2,0,0,0
-vanto,108,Inferno,2,1,0,0
+vanto,108,Inferno,2,0,0,1
 Al,109,Inferno,2,0,0,0
 mondo,109,Inferno,2,0,0,0
 non,109,Inferno,2,0,0,0
